@@ -13,3 +13,6 @@ vibe-jwt-test-*
 *.o
 *.obj
 *.lst
+*.a
+*.so
+
