@@ -1,0 +1,7 @@
+name "vibe-jwt"
+description "JWT handling for vibe.d"
+authors "Luna Nielsen"
+copyright "Copyright © 2019, Luna Nielsen"
+license "BSL-1.0"
+dependency "vibe-d" version="~>0.8.6"
+dependency "secured" version="~>2.0.2"

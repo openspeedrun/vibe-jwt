@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vibe-jwt
+vibe-jwt.so
+vibe-jwt.dylib
+vibe-jwt.dll
+vibe-jwt.a
+vibe-jwt.lib
+vibe-jwt-test-*
+*.exe
+*.o
+*.obj
+*.lst
